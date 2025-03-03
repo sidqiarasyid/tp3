@@ -16,5 +16,15 @@ namespace tp3
         {
             InitializeComponent();
         }
+
+        private void txtField_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSubmit_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -24,7 +24,8 @@ namespace tp3
 
         private void btnSubmit_Click(object sender, EventArgs e)
         {
-
+            string value = txtField.Text;
+            hasil.Text = value;
         }
     }
 }
